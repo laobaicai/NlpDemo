@@ -1,11 +1,11 @@
 .gradle
-.idea
-/build
-gradle
+.idea/
+build/
+/gradle/
 gradlew
 gradlew.bat
 /local.properties
-*/build
+*/build/
 *.iml
 .DS_Store
 /captures
