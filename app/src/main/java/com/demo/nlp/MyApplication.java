@@ -5,7 +5,7 @@ import android.app.Application;
 import com.demo.nlp.util.LogUtil;
 
 /**
- * Created by gehengmin on 2017/12/25.
+ * Created by Lori on 2017/12/25.
  */
 
 public class MyApplication extends Application {

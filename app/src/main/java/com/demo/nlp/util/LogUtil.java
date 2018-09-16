@@ -3,7 +3,7 @@ package com.demo.nlp.util;
 import android.util.Log;
 
 /**
- * Created by gehengmin on 2017/11/15.
+ * Created by Lori on 2017/11/15.
  */
 
 public class LogUtil {
