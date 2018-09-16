@@ -1,7 +1,7 @@
 package com.demo.nlp.constants;
 
 /**
- * Created by gehengmin on 2017/12/15.
+ * Created by Lori on 2017/12/15.
  */
 
 public class Constants {

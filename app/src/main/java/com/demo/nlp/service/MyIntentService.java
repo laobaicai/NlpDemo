@@ -19,7 +19,7 @@ import cn.edu.fudan.sentence.ConvolutionalSentenceModelDecoder;
 import cn.edu.fudan.sentence.ConvolutionalSentenceModelPreprocess;
 
 /**
- * Created by gehengmin on 2018/5/8.
+ * Created by Lori on 2018/5/8.
  */
 
 public class MyIntentService extends IntentService {
